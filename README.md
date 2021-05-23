@@ -1,10 +1,6 @@
-- 👋 Hi, I’m qianye, from Changchun, China. I am very happy to study with you, please give me your advice.
-- 👀 I’m interested in java 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me?You can contact me via QQ or e-mail. This is my QQ and e-mail number: 1348571853, 1348571853 @ qq.com
+-👋您好，我是中国长春的千叶。很高兴与您一起学习，请给我您的建议。
+-👀我对Java开发、Python数据分析感兴趣。
+-🌱我正在学习Java的后端开发，Spring Boot。
+-💞️我正在寻求合作...
+-📫如何联系我？您可以通过QQ或电子邮件与我联系。QQ：1348571853，邮箱：zhou.se@163.com
 
-<!---
-1348571853/1348571853 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
